@@ -1,2 +1,21 @@
 # MID-Exam-accordion-component
-A simple and responsive accordion built with HTML, Tailwind CSS, and vanilla JavaScript. Toggle between sections with smooth transitions. No libraries used. Clean UI. 🔗 Preview: Live Demo
+# Accordion Component - HTML, Tailwind CSS & JavaScript
+
+A clean and interactive accordion component built using HTML, Tailwind CSS, and vanilla JavaScript. This component helps toggle between multiple collapsible content sections with smooth transitions.
+
+## 🚀 Features
+
+- Built with Tailwind CSS utility classes
+- Responsive and mobile-friendly
+- Smooth expand/collapse animations
+- No external JavaScript libraries used
+- Easy to integrate into any project
+
+## 🔗 Live Preview
+
+[Click here to view the demo](https://mid-exam-accordion-component.netlify.app/)
+
+*(Replace the above link with your actual live preview URL)*
+
+## 📁 Project Structure
+
